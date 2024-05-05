@@ -1,7 +1,7 @@
 module.exports = {
-  baseUrl: './',
+  publicPath: '/',
   assetsDir: 'resource',
   devServer: {
-    proxy: 'https://house-map.cn/'
+    proxy: 'https://house2048.cn'
   }
 }
